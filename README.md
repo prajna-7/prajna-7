@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajna-7|PRAJNA BALA SAI
+- 👋 Hi, I’m @prajna-7|| PRAJNA BALA SAI
 - 👀 I’m interested in emerging technologies
 - 🌱 I’m currently learning IoT with Python 
 - 📫 anyone can reach me 

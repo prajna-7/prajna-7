@@ -34,16 +34,16 @@ I thrive on **collaboration**, **problem-solving**, and crafting **innovative so
 
 ## 📈 Highlight Projects
 
-### 🌐 [Cloud-Based E-Commerce Platform Automation and Monitoring]
+### 🌐 Cloud-Based E-Commerce Platform Automation and Monitoring
 An end-to-end solution automating e-commerce platform deployment and monitoring with AWS and DevOps tools. Focused on scalability, reliability, and operational efficiency.
 
-### ⚙️ [Health Check Tool with Prometheus & Grafana]
+### ⚙️ Health Check Tool with Prometheus & Grafana
 Implemented a server health check system using **Ansible** for data collection, **Jenkins** for CI/CD, and **Prometheus-Grafana** for visualization.
 
-### 📦 [Load Balancer for HTTP Requests on Azure]
+### 📦 Load Balancer for HTTP Requests on Azure
 Designed a scalable load balancer using **Flask** and **Docker** on Azure, optimizing performance through custom algorithms like Weighted Round Robin.
 
-### 📊 [Behavioral Analysis for DDoS Attack Detection]
+### 📊 Behavioral Analysis for DDoS Attack Detection
 Developed a framework leveraging **Machine Learning** and **XAI** techniques for anomaly detection, improving network security.
 
 ---

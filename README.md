@@ -1,6 +1,6 @@
 # 👋 Welcome to Prajna Bala Sai Potnuri's GitHub Profile
 
-🚀 **Aspiring Telecommunication and DevOps Professional | Cloud Enthusiast | IoT Innovator | Lifelong Learner**
+🚀 **Aspiring Telecommunication and DevOps Professional | Cloud Enthusiast | IoT Innovator | Lifelong Learner and Achiever**
 
 🔗 **Email**: prajnasai123@gmail.com  
 📍 **Location**: Sweden  
@@ -17,7 +17,7 @@ I am a passionate engineer with a strong foundation in **Telecommunication Syste
 - 📡 Skilled in **Signal Processing, IoT Integration, and Networking Protocols**  
 - ✍️ Experienced in **Machine Learning, Python Development, and Software Testing**  
 
-I thrive on **collaboration**, **problem-solving**, and crafting **innovative solutions** that make an impact. Explore my projects to see how I bring technology to life!
+As a **lifelong learner and achiever**, I don't just learn; I put my knowledge into action, crafting solutions that work and make a difference. Explore my projects to see how I bring technology to life!
 
 ---
 
@@ -45,6 +45,8 @@ Designed a scalable load balancer using **Flask** and **Docker** on Azure, optim
 
 ### 📊 Behavioral Analysis for DDoS Attack Detection
 Developed a framework leveraging **Machine Learning** and **XAI** techniques for anomaly detection, improving network security.
+
+👉 **For more projects and exciting content, please visit my [GitHub Repositories](https://github.com/prajna-7?tab=repositories). You'll find all my work and innovative solutions there!**
 
 ---
 

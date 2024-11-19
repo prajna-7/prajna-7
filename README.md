@@ -1,7 +1,3 @@
-Based on your details, here's a professional and interactive GitHub README file template. This is crafted to highlight your skills, projects, and experience in a way that impresses recruiters:
-
----
-
 # 👋 Welcome to Prajna Bala Sai Potnuri's GitHub Profile
 
 🚀 **Aspiring Telecommunication and DevOps Professional | Cloud Enthusiast | IoT Innovator | Lifelong Learner**
